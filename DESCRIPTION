@@ -1,0 +1,12 @@
+Package: paperCAnD3
+Type: Package
+Title: This is a package for the paper for the CAnD3 project collaboration
+Version: 0.1.0
+Authors@R: 
+    person("Kamila", "Kolpashnikova", , "kamilakolpashnikova@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-6338-0977"))
+Description: paper for CAnD3 collaboration
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
